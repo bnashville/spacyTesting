@@ -2,6 +2,7 @@ import spacy
 import re
 
 #use "pip install -r requirements.txt" to install spacy and dependencies
+#https://www.linguistics.ucsb.edu/research/santa-barbara-corpus
 
 def format_transcriptions(transcriptions):
     formatted_data = []
